@@ -1,22 +1,28 @@
 [
   {
     "name": "Phạm Văn Tài",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Matamoros004.JPG",
     "author": "Dev",
     "accent": "Piew",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Matamoros004.JPG",
     "chapter": [
       {
-        "url":"https://drive.google.com/uc?export=download&id=1v3JQXVZBIOfIysvNr81rlG0Kiap1RVlY",
         "name":"Chapter 1"
+        "url":"https://drive.google.com/uc?export=download&id=1v3JQXVZBIOfIysvNr81rlG0Kiap1RVlY",
       },
       {
+        "name":"Chapter 2"
         "url":"https://drive.google.com/uc?export=download&id=1v3JQXVZBIOfIysvNr81rlG0Kiap1RVlY",
-        "name":"Chapter 1"
       },
       {
+        "name":"Chapter 3"
         "url":"https://drive.google.com/uc?export=download&id=1v3JQXVZBIOfIysvNr81rlG0Kiap1RVlY",
-        "name":"Chapter 1"
-      }
+      },
+      {
+        "name":"Chapter 4"
+        "url":"https://drive.google.com/uc?export=download&id=1v3JQXVZBIOfIysvNr81rlG0Kiap1RVlY",
+      },
+
+
     ]
   }
 ]
